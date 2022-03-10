@@ -18,6 +18,7 @@ import json
 
 from models import NearEarthObject, CloseApproach
 
+
 def load_neos(neo_csv_path):
     """Read near-Earth object information from a CSV file.
 
